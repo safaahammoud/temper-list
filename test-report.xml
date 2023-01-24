@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/safaa/temper-list/src/modules/Posts/tests/unit/Posts.spec.ts">
+    <testCase name="Posts.vue on initialization should display posts" duration="17"/>
+    <testCase name="Posts.vue time travel functionality should revert movement of post when user clicks on time travel button" duration="19"/>
+  </file>
+</testExecutions>
